@@ -27,7 +27,7 @@ public class box extends RectShape {
     String nihao = "niahao ";
     String sdji = "asdhifiao";
 
-
+    //////////////////////////////////////////////
     public int getI() {
         return  INT;
     }
