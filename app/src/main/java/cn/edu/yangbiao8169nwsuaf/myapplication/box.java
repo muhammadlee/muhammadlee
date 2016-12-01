@@ -24,7 +24,8 @@ public class box extends RectShape {
     List<String> mList = new ArrayList<>();
     int i=0;
     int j=1;
-
+    String nihao = "niahao ";
+    String sdji = "asdhifiao";
 
 
     public int getI() {
