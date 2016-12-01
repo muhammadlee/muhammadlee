@@ -23,6 +23,7 @@ public class box extends RectShape {
 
     List<String> mList = new ArrayList<>();
     int i=0;
+    int j=1;
 
 
     public int getI() {
